@@ -28,4 +28,4 @@ Veja a seção sobre [implantação](https://facebook.github
 
 Para iniciar o JSON Server e simular uma API RESTful, execute o seguinte comando no terminal:
 
-### `yarn build`
+### `yarn server`
